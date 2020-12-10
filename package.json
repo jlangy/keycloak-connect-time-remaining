@@ -1,0 +1,11 @@
+{
+  "name": "update-keycloak-refresh-token",
+  "version": "1.0.0",
+  "description": "Express middleware to update a keycloak refresh token when requests are made",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Langlois",
+  "license": "ISC"
+}
